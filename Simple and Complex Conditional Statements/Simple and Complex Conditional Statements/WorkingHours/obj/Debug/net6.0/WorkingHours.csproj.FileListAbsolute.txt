@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\bin\Debug\net6.0\WorkingHours.exe
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\bin\Debug\net6.0\WorkingHours.deps.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\bin\Debug\net6.0\WorkingHours.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\bin\Debug\net6.0\WorkingHours.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\bin\Debug\net6.0\WorkingHours.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\obj\Debug\net6.0\WorkingHours.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\obj\Debug\net6.0\WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\obj\Debug\net6.0\WorkingHours.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\obj\Debug\net6.0\WorkingHours.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\obj\Debug\net6.0\WorkingHours.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\obj\Debug\net6.0\WorkingHours.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\obj\Debug\net6.0\refint\WorkingHours.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\obj\Debug\net6.0\WorkingHours.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\obj\Debug\net6.0\WorkingHours.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\WorkingHours\obj\Debug\net6.0\ref\WorkingHours.dll

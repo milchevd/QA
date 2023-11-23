@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.exe
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.deps.json
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.pdb
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\obj\Debug\net6.0\refint\04.CalculateRectangleArea.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.pdb
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\04.CalculateRectangleArea\obj\Debug\net6.0\ref\04.CalculateRectangleArea.dll

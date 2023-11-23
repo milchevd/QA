@@ -1,0 +1,15 @@
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\bin\Debug\net6.0\SortedNumbers.exe
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\bin\Debug\net6.0\SortedNumbers.deps.json
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\bin\Debug\net6.0\SortedNumbers.runtimeconfig.json
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\bin\Debug\net6.0\SortedNumbers.dll
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\bin\Debug\net6.0\SortedNumbers.pdb
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\obj\Debug\net6.0\SortedNumbers.csproj.AssemblyReference.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\obj\Debug\net6.0\SortedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\obj\Debug\net6.0\SortedNumbers.AssemblyInfoInputs.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\obj\Debug\net6.0\SortedNumbers.AssemblyInfo.cs
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\obj\Debug\net6.0\SortedNumbers.csproj.CoreCompileInputs.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\obj\Debug\net6.0\SortedNumbers.dll
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\obj\Debug\net6.0\refint\SortedNumbers.dll
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\obj\Debug\net6.0\SortedNumbers.pdb
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\obj\Debug\net6.0\SortedNumbers.genruntimeconfig.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\SortedNumbers\obj\Debug\net6.0\ref\SortedNumbers.dll

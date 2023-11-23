@@ -1,0 +1,15 @@
+D:\QA\Arrays\Arrays\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.exe
+D:\QA\Arrays\Arrays\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.deps.json
+D:\QA\Arrays\Arrays\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.runtimeconfig.json
+D:\QA\Arrays\Arrays\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.dll
+D:\QA\Arrays\Arrays\03.ReverseAnArray\bin\Debug\net6.0\03.ReverseAnArray.pdb
+D:\QA\Arrays\Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.csproj.AssemblyReference.cache
+D:\QA\Arrays\Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Arrays\Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.AssemblyInfoInputs.cache
+D:\QA\Arrays\Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.AssemblyInfo.cs
+D:\QA\Arrays\Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.csproj.CoreCompileInputs.cache
+D:\QA\Arrays\Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.dll
+D:\QA\Arrays\Arrays\03.ReverseAnArray\obj\Debug\net6.0\refint\03.ReverseAnArray.dll
+D:\QA\Arrays\Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.pdb
+D:\QA\Arrays\Arrays\03.ReverseAnArray\obj\Debug\net6.0\03.ReverseAnArray.genruntimeconfig.cache
+D:\QA\Arrays\Arrays\03.ReverseAnArray\obj\Debug\net6.0\ref\03.ReverseAnArray.dll

@@ -1,0 +1,15 @@
+D:\QA\Exam\ObjectsAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.exe
+D:\QA\Exam\ObjectsAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.deps.json
+D:\QA\Exam\ObjectsAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.runtimeconfig.json
+D:\QA\Exam\ObjectsAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.dll
+D:\QA\Exam\ObjectsAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.pdb
+D:\QA\Exam\ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.csproj.AssemblyReference.cache
+D:\QA\Exam\ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exam\ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.AssemblyInfoInputs.cache
+D:\QA\Exam\ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.AssemblyInfo.cs
+D:\QA\Exam\ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.csproj.CoreCompileInputs.cache
+D:\QA\Exam\ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.dll
+D:\QA\Exam\ObjectsAndClasses\01.Songs\obj\Debug\net6.0\refint\01.Songs.dll
+D:\QA\Exam\ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.pdb
+D:\QA\Exam\ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.genruntimeconfig.cache
+D:\QA\Exam\ObjectsAndClasses\01.Songs\obj\Debug\net6.0\ref\01.Songs.dll

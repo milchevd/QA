@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.exe
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.deps.json
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.pdb
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\obj\Debug\net6.0\refint\01.SignOfIntegerNumbers.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.pdb
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\01.SignOfIntegerNumbers\obj\Debug\net6.0\ref\01.SignOfIntegerNumbers.dll

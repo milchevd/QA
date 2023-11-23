@@ -1,0 +1,15 @@
+D:\QA\Arrays\Arrays\001.Playground\bin\Debug\net6.0\001.Playground.exe
+D:\QA\Arrays\Arrays\001.Playground\bin\Debug\net6.0\001.Playground.deps.json
+D:\QA\Arrays\Arrays\001.Playground\bin\Debug\net6.0\001.Playground.runtimeconfig.json
+D:\QA\Arrays\Arrays\001.Playground\bin\Debug\net6.0\001.Playground.dll
+D:\QA\Arrays\Arrays\001.Playground\bin\Debug\net6.0\001.Playground.pdb
+D:\QA\Arrays\Arrays\001.Playground\obj\Debug\net6.0\001.Playground.csproj.AssemblyReference.cache
+D:\QA\Arrays\Arrays\001.Playground\obj\Debug\net6.0\001.Playground.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Arrays\Arrays\001.Playground\obj\Debug\net6.0\001.Playground.AssemblyInfoInputs.cache
+D:\QA\Arrays\Arrays\001.Playground\obj\Debug\net6.0\001.Playground.AssemblyInfo.cs
+D:\QA\Arrays\Arrays\001.Playground\obj\Debug\net6.0\001.Playground.csproj.CoreCompileInputs.cache
+D:\QA\Arrays\Arrays\001.Playground\obj\Debug\net6.0\001.Playground.dll
+D:\QA\Arrays\Arrays\001.Playground\obj\Debug\net6.0\refint\001.Playground.dll
+D:\QA\Arrays\Arrays\001.Playground\obj\Debug\net6.0\001.Playground.pdb
+D:\QA\Arrays\Arrays\001.Playground\obj\Debug\net6.0\001.Playground.genruntimeconfig.cache
+D:\QA\Arrays\Arrays\001.Playground\obj\Debug\net6.0\ref\001.Playground.dll

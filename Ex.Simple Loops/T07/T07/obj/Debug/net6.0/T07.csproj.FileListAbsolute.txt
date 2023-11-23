@@ -1,0 +1,5 @@
+D:\QA\Ex.Simple Loops\T07\T07\obj\Debug\net6.0\T07.csproj.AssemblyReference.cache
+D:\QA\Ex.Simple Loops\T07\T07\obj\Debug\net6.0\T07.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Ex.Simple Loops\T07\T07\obj\Debug\net6.0\T07.AssemblyInfoInputs.cache
+D:\QA\Ex.Simple Loops\T07\T07\obj\Debug\net6.0\T07.AssemblyInfo.cs
+D:\QA\Ex.Simple Loops\T07\T07\obj\Debug\net6.0\T07.csproj.CoreCompileInputs.cache

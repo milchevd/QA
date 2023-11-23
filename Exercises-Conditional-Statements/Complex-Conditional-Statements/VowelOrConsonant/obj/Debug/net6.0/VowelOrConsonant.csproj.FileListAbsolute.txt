@@ -1,0 +1,15 @@
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.csproj.AssemblyReference.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.AssemblyInfoInputs.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.AssemblyInfo.cs
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.csproj.CoreCompileInputs.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.exe
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.deps.json
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.runtimeconfig.json
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.dll
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.pdb
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.dll
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\obj\Debug\net6.0\refint\VowelOrConsonant.dll
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.pdb
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.genruntimeconfig.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\VowelOrConsonant\obj\Debug\net6.0\ref\VowelOrConsonant.dll

@@ -1,0 +1,15 @@
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\bin\Debug\net6.0\NumberAsWords(If).exe
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\bin\Debug\net6.0\NumberAsWords(If).deps.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\bin\Debug\net6.0\NumberAsWords(If).runtimeconfig.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\bin\Debug\net6.0\NumberAsWords(If).dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\bin\Debug\net6.0\NumberAsWords(If).pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords(If).csproj.AssemblyReference.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords(If).GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords(If).AssemblyInfoInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords(If).AssemblyInfo.cs
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords(If).csproj.CoreCompileInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords(If).dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\refint\NumberAsWords(If).dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords(If).pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords(If).genruntimeconfig.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\ref\NumberAsWords(If).dll

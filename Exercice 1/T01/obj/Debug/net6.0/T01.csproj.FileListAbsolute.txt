@@ -1,0 +1,15 @@
+D:\QA\Exercice 1\T01\bin\Debug\net6.0\T01.exe
+D:\QA\Exercice 1\T01\bin\Debug\net6.0\T01.deps.json
+D:\QA\Exercice 1\T01\bin\Debug\net6.0\T01.runtimeconfig.json
+D:\QA\Exercice 1\T01\bin\Debug\net6.0\T01.dll
+D:\QA\Exercice 1\T01\bin\Debug\net6.0\T01.pdb
+D:\QA\Exercice 1\T01\obj\Debug\net6.0\T01.csproj.AssemblyReference.cache
+D:\QA\Exercice 1\T01\obj\Debug\net6.0\T01.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercice 1\T01\obj\Debug\net6.0\T01.AssemblyInfoInputs.cache
+D:\QA\Exercice 1\T01\obj\Debug\net6.0\T01.AssemblyInfo.cs
+D:\QA\Exercice 1\T01\obj\Debug\net6.0\T01.csproj.CoreCompileInputs.cache
+D:\QA\Exercice 1\T01\obj\Debug\net6.0\T01.dll
+D:\QA\Exercice 1\T01\obj\Debug\net6.0\refint\T01.dll
+D:\QA\Exercice 1\T01\obj\Debug\net6.0\T01.pdb
+D:\QA\Exercice 1\T01\obj\Debug\net6.0\T01.genruntimeconfig.cache
+D:\QA\Exercice 1\T01\obj\Debug\net6.0\ref\T01.dll

@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\bin\Debug\net6.0\VacationExpenses.exe
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\bin\Debug\net6.0\VacationExpenses.deps.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\bin\Debug\net6.0\VacationExpenses.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\bin\Debug\net6.0\VacationExpenses.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\bin\Debug\net6.0\VacationExpenses.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\obj\Debug\net6.0\VacationExpenses.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\obj\Debug\net6.0\VacationExpenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\obj\Debug\net6.0\VacationExpenses.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\obj\Debug\net6.0\VacationExpenses.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\obj\Debug\net6.0\VacationExpenses.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\obj\Debug\net6.0\VacationExpenses.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\obj\Debug\net6.0\refint\VacationExpenses.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\obj\Debug\net6.0\VacationExpenses.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\obj\Debug\net6.0\VacationExpenses.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\VacationExpenses\obj\Debug\net6.0\ref\VacationExpenses.dll

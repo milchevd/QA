@@ -1,0 +1,95 @@
+﻿using NUnit.Framework;
+using System;
+using System.Collections.Generic;
+using static NUnit.Framework.Constraints.Tolerance;
+
+namespace TestApp.UnitTests;
+
+public class MaxNumberTests
+{
+    [Test]
+    public void Test_FindMax_InputIsNull_ShouldThrowArgumentException()
+    {
+        // Arrange
+        List<int>? nullList = null;
+
+        // Act & Assert
+        Assert.Throws<ArgumentException>(() => MaxNumber.FindMax(nullList));
+    }
+
+    [Test]
+    public void Test_FindMax_InputIsEmptyList_ShouldThrowArgumentException()
+    {
+        // Arrange
+        List<int> emptyList = new List<int>();
+
+        // Act & Assert
+        Assert.Throws<ArgumentException>(() => MaxNumber.FindMax(emptyList));
+    }
+
+    [Test]
+    public void Test_FindMax_InputHasOneElement_ShouldReturnTheElement()
+    {
+        // Arrange
+        List<int> oneElement = new List<int> { 42 };
+
+        // Act
+        int result = MaxNumber.FindMax(oneElement);
+
+        // Assert
+        Assert.AreEqual(42, result);
+
+    }
+
+    [Test]
+    public void Test_FindMax_InputHasPositiveIntegers_ShouldReturnMaximum()
+    {
+        // Arrange
+        List<int> positive = new List<int> { 1, 2, 3, 4, 42 };
+
+        // Act
+        int result = MaxNumber.FindMax(positive);
+
+        // Assert
+        Assert.AreEqual(42, result);
+    }
+
+    [Test]
+    public void Test_FindMax_InputHasNegativeIntegers_ShouldReturnMaximum()
+    {
+        // Arrange
+        List<int> negative = new List<int> { -1, -2, -3, -4, -42 };
+
+        // Act
+        int result = MaxNumber.FindMax(negative);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(-1));
+    }
+
+    [Test]
+    public void Test_FindMax_InputHasMixedIntegers_ShouldReturnMaximum()
+    {
+            // Arrange
+            List<int> mixedList = new List<int> { 1, -2, -3, 4, -42 };
+
+            // Act
+            int result = MaxNumber.FindMax(mixedList);
+
+            // Assert
+            Assert.That(result, Is.EqualTo(4));
+    }
+
+    [Test]
+    public void Test_FindMax_InputHasDuplicateMaxValue_ShouldReturnMaximum()
+    {
+            // Arrange
+            List<int> duplicateList = new List<int> { 1, -2, 100, -3, 4, 42, 100 };
+
+            // Act
+            int result = MaxNumber.FindMax(duplicateList);
+
+            // Assert
+            Assert.That(result, Is.EqualTo(100));
+    }
+}

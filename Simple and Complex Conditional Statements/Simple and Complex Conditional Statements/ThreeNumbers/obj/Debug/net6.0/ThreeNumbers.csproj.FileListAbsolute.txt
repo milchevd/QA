@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\bin\Debug\net6.0\ThreeNumbers.exe
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\bin\Debug\net6.0\ThreeNumbers.deps.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\bin\Debug\net6.0\ThreeNumbers.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\bin\Debug\net6.0\ThreeNumbers.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\bin\Debug\net6.0\ThreeNumbers.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\obj\Debug\net6.0\ThreeNumbers.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\obj\Debug\net6.0\ThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\obj\Debug\net6.0\ThreeNumbers.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\obj\Debug\net6.0\ThreeNumbers.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\obj\Debug\net6.0\ThreeNumbers.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\obj\Debug\net6.0\ThreeNumbers.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\obj\Debug\net6.0\refint\ThreeNumbers.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\obj\Debug\net6.0\ThreeNumbers.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\obj\Debug\net6.0\ThreeNumbers.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ThreeNumbers\obj\Debug\net6.0\ref\ThreeNumbers.dll

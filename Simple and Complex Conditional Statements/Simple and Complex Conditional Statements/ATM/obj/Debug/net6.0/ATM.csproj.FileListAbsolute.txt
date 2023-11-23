@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\bin\Debug\net6.0\ATM.exe
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\bin\Debug\net6.0\ATM.deps.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\bin\Debug\net6.0\ATM.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\bin\Debug\net6.0\ATM.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\bin\Debug\net6.0\ATM.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\obj\Debug\net6.0\ATM.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\obj\Debug\net6.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\obj\Debug\net6.0\ATM.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\obj\Debug\net6.0\ATM.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\obj\Debug\net6.0\ATM.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\obj\Debug\net6.0\ATM.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\obj\Debug\net6.0\refint\ATM.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\obj\Debug\net6.0\ATM.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\obj\Debug\net6.0\ATM.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\ATM\obj\Debug\net6.0\ref\ATM.dll

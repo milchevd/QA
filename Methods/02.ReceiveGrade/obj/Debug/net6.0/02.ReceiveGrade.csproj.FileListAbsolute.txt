@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\bin\Debug\net6.0\02.ReceiveGrade.exe
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\bin\Debug\net6.0\02.ReceiveGrade.deps.json
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\bin\Debug\net6.0\02.ReceiveGrade.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\bin\Debug\net6.0\02.ReceiveGrade.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\bin\Debug\net6.0\02.ReceiveGrade.pdb
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\obj\Debug\net6.0\02.ReceiveGrade.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\obj\Debug\net6.0\02.ReceiveGrade.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\obj\Debug\net6.0\02.ReceiveGrade.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\obj\Debug\net6.0\02.ReceiveGrade.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\obj\Debug\net6.0\02.ReceiveGrade.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\obj\Debug\net6.0\02.ReceiveGrade.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\obj\Debug\net6.0\refint\02.ReceiveGrade.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\obj\Debug\net6.0\02.ReceiveGrade.pdb
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\obj\Debug\net6.0\02.ReceiveGrade.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\02.ReceiveGrade\obj\Debug\net6.0\ref\02.ReceiveGrade.dll

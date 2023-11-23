@@ -1,0 +1,2 @@
+﻿string password = Console.ReadLine();
+

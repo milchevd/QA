@@ -1,0 +1,15 @@
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.exe
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.deps.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.runtimeconfig.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.csproj.AssemblyReference.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfoInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfo.cs
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.csproj.CoreCompileInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\obj\Debug\net6.0\refint\GreaterNumber.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.genruntimeconfig.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\GreaterNumber\obj\Debug\net6.0\ref\GreaterNumber.dll

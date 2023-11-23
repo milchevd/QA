@@ -1,0 +1,15 @@
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\bin\Debug\net6.0\NumberAsWords(Switch).exe
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\bin\Debug\net6.0\NumberAsWords(Switch).deps.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\bin\Debug\net6.0\NumberAsWords(Switch).runtimeconfig.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\bin\Debug\net6.0\NumberAsWords(Switch).dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\bin\Debug\net6.0\NumberAsWords(Switch).pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\obj\Debug\net6.0\NumberAsWords(Switch).csproj.AssemblyReference.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\obj\Debug\net6.0\NumberAsWords(Switch).GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\obj\Debug\net6.0\NumberAsWords(Switch).AssemblyInfoInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\obj\Debug\net6.0\NumberAsWords(Switch).AssemblyInfo.cs
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\obj\Debug\net6.0\NumberAsWords(Switch).csproj.CoreCompileInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\obj\Debug\net6.0\NumberAsWords(Switch).dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\obj\Debug\net6.0\refint\NumberAsWords(Switch).dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\obj\Debug\net6.0\NumberAsWords(Switch).pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\obj\Debug\net6.0\NumberAsWords(Switch).genruntimeconfig.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords(Switch)\obj\Debug\net6.0\ref\NumberAsWords(Switch).dll

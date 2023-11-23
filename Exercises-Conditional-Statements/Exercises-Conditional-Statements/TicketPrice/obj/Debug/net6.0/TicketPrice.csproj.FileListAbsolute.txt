@@ -1,0 +1,15 @@
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\bin\Debug\net6.0\TicketPrice.exe
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\bin\Debug\net6.0\TicketPrice.deps.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\bin\Debug\net6.0\TicketPrice.runtimeconfig.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\bin\Debug\net6.0\TicketPrice.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\bin\Debug\net6.0\TicketPrice.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\obj\Debug\net6.0\TicketPrice.csproj.AssemblyReference.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\obj\Debug\net6.0\TicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\obj\Debug\net6.0\TicketPrice.AssemblyInfoInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\obj\Debug\net6.0\TicketPrice.AssemblyInfo.cs
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\obj\Debug\net6.0\TicketPrice.csproj.CoreCompileInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\obj\Debug\net6.0\TicketPrice.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\obj\Debug\net6.0\refint\TicketPrice.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\obj\Debug\net6.0\TicketPrice.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\obj\Debug\net6.0\TicketPrice.genruntimeconfig.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\TicketPrice\obj\Debug\net6.0\ref\TicketPrice.dll

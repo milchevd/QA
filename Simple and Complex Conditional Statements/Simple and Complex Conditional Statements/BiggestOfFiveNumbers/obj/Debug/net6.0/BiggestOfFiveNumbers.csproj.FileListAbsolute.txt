@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\obj\Debug\net6.0\BiggestOfFiveNumbers.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\obj\Debug\net6.0\BiggestOfFiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\obj\Debug\net6.0\BiggestOfFiveNumbers.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\obj\Debug\net6.0\BiggestOfFiveNumbers.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\obj\Debug\net6.0\BiggestOfFiveNumbers.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\bin\Debug\net6.0\BiggestOfFiveNumbers.exe
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\bin\Debug\net6.0\BiggestOfFiveNumbers.deps.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\bin\Debug\net6.0\BiggestOfFiveNumbers.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\bin\Debug\net6.0\BiggestOfFiveNumbers.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\bin\Debug\net6.0\BiggestOfFiveNumbers.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\obj\Debug\net6.0\BiggestOfFiveNumbers.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\obj\Debug\net6.0\refint\BiggestOfFiveNumbers.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\obj\Debug\net6.0\BiggestOfFiveNumbers.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\obj\Debug\net6.0\BiggestOfFiveNumbers.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\BiggestOfFiveNumbers\obj\Debug\net6.0\ref\BiggestOfFiveNumbers.dll

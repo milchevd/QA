@@ -1,0 +1,15 @@
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\bin\Debug\net6.0\CofeeShopWithChecks.exe
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\bin\Debug\net6.0\CofeeShopWithChecks.deps.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\bin\Debug\net6.0\CofeeShopWithChecks.runtimeconfig.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\bin\Debug\net6.0\CofeeShopWithChecks.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\bin\Debug\net6.0\CofeeShopWithChecks.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\obj\Debug\net6.0\CofeeShopWithChecks.csproj.AssemblyReference.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\obj\Debug\net6.0\CofeeShopWithChecks.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\obj\Debug\net6.0\CofeeShopWithChecks.AssemblyInfoInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\obj\Debug\net6.0\CofeeShopWithChecks.AssemblyInfo.cs
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\obj\Debug\net6.0\CofeeShopWithChecks.csproj.CoreCompileInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\obj\Debug\net6.0\CofeeShopWithChecks.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\obj\Debug\net6.0\refint\CofeeShopWithChecks.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\obj\Debug\net6.0\CofeeShopWithChecks.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\obj\Debug\net6.0\CofeeShopWithChecks.genruntimeconfig.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CofeeShopWithChecks\obj\Debug\net6.0\ref\CofeeShopWithChecks.dll

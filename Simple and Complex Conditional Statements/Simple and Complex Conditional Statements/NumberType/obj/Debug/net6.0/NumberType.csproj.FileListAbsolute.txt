@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\bin\Debug\net6.0\NumberType.exe
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\bin\Debug\net6.0\NumberType.deps.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\bin\Debug\net6.0\NumberType.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\bin\Debug\net6.0\NumberType.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\bin\Debug\net6.0\NumberType.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\obj\Debug\net6.0\NumberType.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\obj\Debug\net6.0\NumberType.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\obj\Debug\net6.0\NumberType.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\obj\Debug\net6.0\NumberType.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\obj\Debug\net6.0\NumberType.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\obj\Debug\net6.0\NumberType.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\obj\Debug\net6.0\refint\NumberType.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\obj\Debug\net6.0\NumberType.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\obj\Debug\net6.0\NumberType.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumberType\obj\Debug\net6.0\ref\NumberType.dll

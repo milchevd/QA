@@ -1,0 +1,15 @@
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\bin\Debug\net6.0\01.EnglishNameOfEachDigit.exe
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\bin\Debug\net6.0\01.EnglishNameOfEachDigit.deps.json
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\bin\Debug\net6.0\01.EnglishNameOfEachDigit.runtimeconfig.json
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\bin\Debug\net6.0\01.EnglishNameOfEachDigit.dll
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\bin\Debug\net6.0\01.EnglishNameOfEachDigit.pdb
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.csproj.AssemblyReference.cache
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.AssemblyInfoInputs.cache
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.AssemblyInfo.cs
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.csproj.CoreCompileInputs.cache
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.dll
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\refint\01.EnglishNameOfEachDigit.dll
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.pdb
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\01.EnglishNameOfEachDigit.genruntimeconfig.cache
+D:\QA\Exam Preparation3\ExamPrep3\01.EnglishNameOfEachDigit\obj\Debug\net6.0\ref\01.EnglishNameOfEachDigit.dll

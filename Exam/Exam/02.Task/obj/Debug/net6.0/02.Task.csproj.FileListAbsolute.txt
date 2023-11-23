@@ -1,0 +1,15 @@
+D:\QA\Exam\Exam\02.Task\obj\Debug\net6.0\02.Task.csproj.AssemblyReference.cache
+D:\QA\Exam\Exam\02.Task\obj\Debug\net6.0\02.Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exam\Exam\02.Task\obj\Debug\net6.0\02.Task.AssemblyInfoInputs.cache
+D:\QA\Exam\Exam\02.Task\obj\Debug\net6.0\02.Task.AssemblyInfo.cs
+D:\QA\Exam\Exam\02.Task\obj\Debug\net6.0\02.Task.csproj.CoreCompileInputs.cache
+D:\QA\Exam\Exam\02.Task\bin\Debug\net6.0\02.Task.exe
+D:\QA\Exam\Exam\02.Task\bin\Debug\net6.0\02.Task.deps.json
+D:\QA\Exam\Exam\02.Task\bin\Debug\net6.0\02.Task.runtimeconfig.json
+D:\QA\Exam\Exam\02.Task\bin\Debug\net6.0\02.Task.dll
+D:\QA\Exam\Exam\02.Task\bin\Debug\net6.0\02.Task.pdb
+D:\QA\Exam\Exam\02.Task\obj\Debug\net6.0\02.Task.dll
+D:\QA\Exam\Exam\02.Task\obj\Debug\net6.0\refint\02.Task.dll
+D:\QA\Exam\Exam\02.Task\obj\Debug\net6.0\02.Task.pdb
+D:\QA\Exam\Exam\02.Task\obj\Debug\net6.0\02.Task.genruntimeconfig.cache
+D:\QA\Exam\Exam\02.Task\obj\Debug\net6.0\ref\02.Task.dll

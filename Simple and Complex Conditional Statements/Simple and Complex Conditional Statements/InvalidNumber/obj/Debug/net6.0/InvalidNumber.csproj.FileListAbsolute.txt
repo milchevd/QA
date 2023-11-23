@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\bin\Debug\net6.0\InvalidNumber.exe
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\bin\Debug\net6.0\InvalidNumber.deps.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\bin\Debug\net6.0\InvalidNumber.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\bin\Debug\net6.0\InvalidNumber.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\bin\Debug\net6.0\InvalidNumber.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\obj\Debug\net6.0\InvalidNumber.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\obj\Debug\net6.0\InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\obj\Debug\net6.0\InvalidNumber.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\obj\Debug\net6.0\InvalidNumber.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\obj\Debug\net6.0\InvalidNumber.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\obj\Debug\net6.0\InvalidNumber.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\obj\Debug\net6.0\refint\InvalidNumber.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\obj\Debug\net6.0\InvalidNumber.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\obj\Debug\net6.0\InvalidNumber.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\InvalidNumber\obj\Debug\net6.0\ref\InvalidNumber.dll

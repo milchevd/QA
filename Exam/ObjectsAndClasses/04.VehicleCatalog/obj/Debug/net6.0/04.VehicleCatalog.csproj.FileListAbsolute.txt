@@ -1,0 +1,15 @@
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\bin\Debug\net6.0\04.VehicleCatalog.exe
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\bin\Debug\net6.0\04.VehicleCatalog.deps.json
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\bin\Debug\net6.0\04.VehicleCatalog.runtimeconfig.json
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\bin\Debug\net6.0\04.VehicleCatalog.dll
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\bin\Debug\net6.0\04.VehicleCatalog.pdb
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\obj\Debug\net6.0\04.VehicleCatalog.csproj.AssemblyReference.cache
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\obj\Debug\net6.0\04.VehicleCatalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\obj\Debug\net6.0\04.VehicleCatalog.AssemblyInfoInputs.cache
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\obj\Debug\net6.0\04.VehicleCatalog.AssemblyInfo.cs
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\obj\Debug\net6.0\04.VehicleCatalog.csproj.CoreCompileInputs.cache
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\obj\Debug\net6.0\04.VehicleCatalog.dll
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\obj\Debug\net6.0\refint\04.VehicleCatalog.dll
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\obj\Debug\net6.0\04.VehicleCatalog.pdb
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\obj\Debug\net6.0\04.VehicleCatalog.genruntimeconfig.cache
+D:\QA\Exam\ObjectsAndClasses\04.VehicleCatalog\obj\Debug\net6.0\ref\04.VehicleCatalog.dll

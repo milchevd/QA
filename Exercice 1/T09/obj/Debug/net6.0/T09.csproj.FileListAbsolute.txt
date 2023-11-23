@@ -1,0 +1,15 @@
+D:\QA\Exercice 1\T09\bin\Debug\net6.0\T09.exe
+D:\QA\Exercice 1\T09\bin\Debug\net6.0\T09.deps.json
+D:\QA\Exercice 1\T09\bin\Debug\net6.0\T09.runtimeconfig.json
+D:\QA\Exercice 1\T09\bin\Debug\net6.0\T09.dll
+D:\QA\Exercice 1\T09\bin\Debug\net6.0\T09.pdb
+D:\QA\Exercice 1\T09\obj\Debug\net6.0\T09.csproj.AssemblyReference.cache
+D:\QA\Exercice 1\T09\obj\Debug\net6.0\T09.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercice 1\T09\obj\Debug\net6.0\T09.AssemblyInfoInputs.cache
+D:\QA\Exercice 1\T09\obj\Debug\net6.0\T09.AssemblyInfo.cs
+D:\QA\Exercice 1\T09\obj\Debug\net6.0\T09.csproj.CoreCompileInputs.cache
+D:\QA\Exercice 1\T09\obj\Debug\net6.0\T09.dll
+D:\QA\Exercice 1\T09\obj\Debug\net6.0\refint\T09.dll
+D:\QA\Exercice 1\T09\obj\Debug\net6.0\T09.pdb
+D:\QA\Exercice 1\T09\obj\Debug\net6.0\T09.genruntimeconfig.cache
+D:\QA\Exercice 1\T09\obj\Debug\net6.0\ref\T09.dll

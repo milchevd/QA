@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\bin\Debug\net6.0\SummerOutfit.exe
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\bin\Debug\net6.0\SummerOutfit.deps.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\bin\Debug\net6.0\SummerOutfit.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\bin\Debug\net6.0\SummerOutfit.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\bin\Debug\net6.0\SummerOutfit.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\obj\Debug\net6.0\SummerOutfit.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\obj\Debug\net6.0\SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\obj\Debug\net6.0\SummerOutfit.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\obj\Debug\net6.0\SummerOutfit.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\obj\Debug\net6.0\SummerOutfit.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\obj\Debug\net6.0\SummerOutfit.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\obj\Debug\net6.0\refint\SummerOutfit.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\obj\Debug\net6.0\SummerOutfit.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\obj\Debug\net6.0\SummerOutfit.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SummerOutfit\obj\Debug\net6.0\ref\SummerOutfit.dll

@@ -1,0 +1,15 @@
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.exe
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.deps.json
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.runtimeconfig.json
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.dll
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.pdb
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.csproj.AssemblyReference.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.AssemblyInfoInputs.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.AssemblyInfo.cs
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.csproj.CoreCompileInputs.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.dll
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\obj\Debug\net6.0\refint\FoodOrDrink.dll
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.pdb
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.genruntimeconfig.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\FoodOrDrink\obj\Debug\net6.0\ref\FoodOrDrink.dll

@@ -1,0 +1,15 @@
+D:\QA\Exercice 1\T07\bin\Debug\net6.0\T07.exe
+D:\QA\Exercice 1\T07\bin\Debug\net6.0\T07.deps.json
+D:\QA\Exercice 1\T07\bin\Debug\net6.0\T07.runtimeconfig.json
+D:\QA\Exercice 1\T07\bin\Debug\net6.0\T07.dll
+D:\QA\Exercice 1\T07\bin\Debug\net6.0\T07.pdb
+D:\QA\Exercice 1\T07\obj\Debug\net6.0\T07.csproj.AssemblyReference.cache
+D:\QA\Exercice 1\T07\obj\Debug\net6.0\T07.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercice 1\T07\obj\Debug\net6.0\T07.AssemblyInfoInputs.cache
+D:\QA\Exercice 1\T07\obj\Debug\net6.0\T07.AssemblyInfo.cs
+D:\QA\Exercice 1\T07\obj\Debug\net6.0\T07.csproj.CoreCompileInputs.cache
+D:\QA\Exercice 1\T07\obj\Debug\net6.0\T07.dll
+D:\QA\Exercice 1\T07\obj\Debug\net6.0\refint\T07.dll
+D:\QA\Exercice 1\T07\obj\Debug\net6.0\T07.pdb
+D:\QA\Exercice 1\T07\obj\Debug\net6.0\T07.genruntimeconfig.cache
+D:\QA\Exercice 1\T07\obj\Debug\net6.0\ref\T07.dll

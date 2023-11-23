@@ -1,0 +1,15 @@
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.exe
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.deps.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.runtimeconfig.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.csproj.AssemblyReference.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.AssemblyInfoInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.AssemblyInfo.cs
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.csproj.CoreCompileInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\obj\Debug\net6.0\refint\ValidTriangle.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.genruntimeconfig.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\ValidTriangle\obj\Debug\net6.0\ref\ValidTriangle.dll

@@ -1,0 +1,15 @@
+D:\QA\Arrays\Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.csproj.AssemblyReference.cache
+D:\QA\Arrays\Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Arrays\Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.AssemblyInfoInputs.cache
+D:\QA\Arrays\Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.AssemblyInfo.cs
+D:\QA\Arrays\Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.csproj.CoreCompileInputs.cache
+D:\QA\Arrays\Arrays\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.exe
+D:\QA\Arrays\Arrays\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.deps.json
+D:\QA\Arrays\Arrays\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.runtimeconfig.json
+D:\QA\Arrays\Arrays\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.dll
+D:\QA\Arrays\Arrays\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.pdb
+D:\QA\Arrays\Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.dll
+D:\QA\Arrays\Arrays\01.DayOfWeek\obj\Debug\net6.0\refint\01.DayOfWeek.dll
+D:\QA\Arrays\Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.pdb
+D:\QA\Arrays\Arrays\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.genruntimeconfig.cache
+D:\QA\Arrays\Arrays\01.DayOfWeek\obj\Debug\net6.0\ref\01.DayOfWeek.dll

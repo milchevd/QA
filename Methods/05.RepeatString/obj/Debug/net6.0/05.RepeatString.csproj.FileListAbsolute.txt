@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\bin\Debug\net6.0\05.RepeatString.exe
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\bin\Debug\net6.0\05.RepeatString.deps.json
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\bin\Debug\net6.0\05.RepeatString.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\bin\Debug\net6.0\05.RepeatString.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\bin\Debug\net6.0\05.RepeatString.pdb
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\obj\Debug\net6.0\refint\05.RepeatString.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.pdb
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\obj\Debug\net6.0\05.RepeatString.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\05.RepeatString\obj\Debug\net6.0\ref\05.RepeatString.dll

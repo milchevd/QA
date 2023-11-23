@@ -1,0 +1,15 @@
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\bin\Debug\net6.0\DayOfWeek.exe
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\bin\Debug\net6.0\DayOfWeek.deps.json
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\bin\Debug\net6.0\DayOfWeek.runtimeconfig.json
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\bin\Debug\net6.0\DayOfWeek.dll
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\bin\Debug\net6.0\DayOfWeek.pdb
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\obj\Debug\net6.0\DayOfWeek.csproj.AssemblyReference.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\obj\Debug\net6.0\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\obj\Debug\net6.0\DayOfWeek.AssemblyInfoInputs.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\obj\Debug\net6.0\DayOfWeek.AssemblyInfo.cs
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\obj\Debug\net6.0\DayOfWeek.csproj.CoreCompileInputs.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\obj\Debug\net6.0\DayOfWeek.dll
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\obj\Debug\net6.0\refint\DayOfWeek.dll
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\obj\Debug\net6.0\DayOfWeek.pdb
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\obj\Debug\net6.0\DayOfWeek.genruntimeconfig.cache
+D:\QA\Exercises-Conditional-Statements\Complex-Conditional-Statements\DayOfWeek\obj\Debug\net6.0\ref\DayOfWeek.dll

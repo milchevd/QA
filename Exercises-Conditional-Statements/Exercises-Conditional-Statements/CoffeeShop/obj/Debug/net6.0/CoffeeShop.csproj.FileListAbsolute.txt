@@ -1,0 +1,15 @@
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.exe
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.deps.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.runtimeconfig.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.csproj.AssemblyReference.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.AssemblyInfoInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.AssemblyInfo.cs
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.csproj.CoreCompileInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\obj\Debug\net6.0\refint\CoffeeShop.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.genruntimeconfig.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\CoffeeShop\obj\Debug\net6.0\ref\CoffeeShop.dll

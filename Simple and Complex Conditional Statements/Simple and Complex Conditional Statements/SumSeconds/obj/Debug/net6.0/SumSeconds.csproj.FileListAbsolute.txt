@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\bin\Debug\net6.0\SumSeconds.exe
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\bin\Debug\net6.0\SumSeconds.deps.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\bin\Debug\net6.0\SumSeconds.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\bin\Debug\net6.0\SumSeconds.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\bin\Debug\net6.0\SumSeconds.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\refint\SumSeconds.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\ref\SumSeconds.dll

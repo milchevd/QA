@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\bin\Debug\net6.0\NumOperations.exe
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\bin\Debug\net6.0\NumOperations.deps.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\bin\Debug\net6.0\NumOperations.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\bin\Debug\net6.0\NumOperations.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\bin\Debug\net6.0\NumOperations.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\obj\Debug\net6.0\NumOperations.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\obj\Debug\net6.0\NumOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\obj\Debug\net6.0\NumOperations.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\obj\Debug\net6.0\NumOperations.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\obj\Debug\net6.0\NumOperations.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\obj\Debug\net6.0\NumOperations.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\obj\Debug\net6.0\refint\NumOperations.dll
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\obj\Debug\net6.0\NumOperations.pdb
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\obj\Debug\net6.0\NumOperations.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Simple and Complex Conditional Statements\NumOperations\obj\Debug\net6.0\ref\NumOperations.dll

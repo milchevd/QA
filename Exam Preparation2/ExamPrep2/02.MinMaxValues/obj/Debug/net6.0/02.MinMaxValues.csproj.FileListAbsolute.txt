@@ -1,0 +1,15 @@
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\bin\Debug\net6.0\02.MinMaxValues.exe
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\bin\Debug\net6.0\02.MinMaxValues.deps.json
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\bin\Debug\net6.0\02.MinMaxValues.runtimeconfig.json
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\bin\Debug\net6.0\02.MinMaxValues.dll
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\bin\Debug\net6.0\02.MinMaxValues.pdb
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.csproj.AssemblyReference.cache
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.AssemblyInfoInputs.cache
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.AssemblyInfo.cs
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.csproj.CoreCompileInputs.cache
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.dll
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\obj\Debug\net6.0\refint\02.MinMaxValues.dll
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.pdb
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\obj\Debug\net6.0\02.MinMaxValues.genruntimeconfig.cache
+D:\QA\Exam Preparation2\ExamPrep2\02.MinMaxValues\obj\Debug\net6.0\ref\02.MinMaxValues.dll

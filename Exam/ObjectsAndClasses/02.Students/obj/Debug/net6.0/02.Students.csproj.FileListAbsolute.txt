@@ -1,0 +1,15 @@
+D:\QA\Exam\ObjectsAndClasses\02.Students\bin\Debug\net6.0\02.Students.exe
+D:\QA\Exam\ObjectsAndClasses\02.Students\bin\Debug\net6.0\02.Students.deps.json
+D:\QA\Exam\ObjectsAndClasses\02.Students\bin\Debug\net6.0\02.Students.runtimeconfig.json
+D:\QA\Exam\ObjectsAndClasses\02.Students\bin\Debug\net6.0\02.Students.dll
+D:\QA\Exam\ObjectsAndClasses\02.Students\bin\Debug\net6.0\02.Students.pdb
+D:\QA\Exam\ObjectsAndClasses\02.Students\obj\Debug\net6.0\02.Students.csproj.AssemblyReference.cache
+D:\QA\Exam\ObjectsAndClasses\02.Students\obj\Debug\net6.0\02.Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exam\ObjectsAndClasses\02.Students\obj\Debug\net6.0\02.Students.AssemblyInfoInputs.cache
+D:\QA\Exam\ObjectsAndClasses\02.Students\obj\Debug\net6.0\02.Students.AssemblyInfo.cs
+D:\QA\Exam\ObjectsAndClasses\02.Students\obj\Debug\net6.0\02.Students.csproj.CoreCompileInputs.cache
+D:\QA\Exam\ObjectsAndClasses\02.Students\obj\Debug\net6.0\02.Students.dll
+D:\QA\Exam\ObjectsAndClasses\02.Students\obj\Debug\net6.0\refint\02.Students.dll
+D:\QA\Exam\ObjectsAndClasses\02.Students\obj\Debug\net6.0\02.Students.pdb
+D:\QA\Exam\ObjectsAndClasses\02.Students\obj\Debug\net6.0\02.Students.genruntimeconfig.cache
+D:\QA\Exam\ObjectsAndClasses\02.Students\obj\Debug\net6.0\ref\02.Students.dll

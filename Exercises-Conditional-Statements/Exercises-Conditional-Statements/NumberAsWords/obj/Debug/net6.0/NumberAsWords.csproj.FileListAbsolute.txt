@@ -1,0 +1,15 @@
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\bin\Debug\net6.0\NumberAsWords.exe
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\bin\Debug\net6.0\NumberAsWords.deps.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\bin\Debug\net6.0\NumberAsWords.runtimeconfig.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\bin\Debug\net6.0\NumberAsWords.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\bin\Debug\net6.0\NumberAsWords.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.csproj.AssemblyReference.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.AssemblyInfoInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.AssemblyInfo.cs
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.csproj.CoreCompileInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\refint\NumberAsWords.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\NumberAsWords.genruntimeconfig.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\NumberAsWords\obj\Debug\net6.0\ref\NumberAsWords.dll

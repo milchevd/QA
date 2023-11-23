@@ -1,0 +1,15 @@
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\bin\Debug\net6.0\FrrezingWeather.exe
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\bin\Debug\net6.0\FrrezingWeather.deps.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\bin\Debug\net6.0\FrrezingWeather.runtimeconfig.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\bin\Debug\net6.0\FrrezingWeather.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\bin\Debug\net6.0\FrrezingWeather.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\obj\Debug\net6.0\FrrezingWeather.csproj.AssemblyReference.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\obj\Debug\net6.0\FrrezingWeather.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\obj\Debug\net6.0\FrrezingWeather.AssemblyInfoInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\obj\Debug\net6.0\FrrezingWeather.AssemblyInfo.cs
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\obj\Debug\net6.0\FrrezingWeather.csproj.CoreCompileInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\obj\Debug\net6.0\FrrezingWeather.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\obj\Debug\net6.0\refint\FrrezingWeather.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\obj\Debug\net6.0\FrrezingWeather.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\obj\Debug\net6.0\FrrezingWeather.genruntimeconfig.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\FrrezingWeather\obj\Debug\net6.0\ref\FrrezingWeather.dll

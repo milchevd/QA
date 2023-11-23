@@ -1,0 +1,12 @@
+D:\QA\UnitTesting\07.2.Resources-Unit-Testing-Arrays-and-Lists\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\QA\UnitTesting\07.2.Resources-Unit-Testing-Arrays-and-Lists\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\QA\UnitTesting\07.2.Resources-Unit-Testing-Arrays-and-Lists\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\QA\UnitTesting\07.2.Resources-Unit-Testing-Arrays-and-Lists\TestApp\obj\Debug\net6.0\TestApp.csproj.AssemblyReference.cache
+D:\QA\UnitTesting\07.2.Resources-Unit-Testing-Arrays-and-Lists\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\UnitTesting\07.2.Resources-Unit-Testing-Arrays-and-Lists\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\QA\UnitTesting\07.2.Resources-Unit-Testing-Arrays-and-Lists\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\QA\UnitTesting\07.2.Resources-Unit-Testing-Arrays-and-Lists\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\QA\UnitTesting\07.2.Resources-Unit-Testing-Arrays-and-Lists\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\QA\UnitTesting\07.2.Resources-Unit-Testing-Arrays-and-Lists\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\QA\UnitTesting\07.2.Resources-Unit-Testing-Arrays-and-Lists\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\QA\UnitTesting\07.2.Resources-Unit-Testing-Arrays-and-Lists\TestApp\obj\Debug\net6.0\ref\TestApp.dll

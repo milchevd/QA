@@ -1,0 +1,15 @@
+D:\QA\Methods\07. GreaterOfTwoValues\bin\Debug\net6.0\07. GreaterOfTwoValues.exe
+D:\QA\Methods\07. GreaterOfTwoValues\bin\Debug\net6.0\07. GreaterOfTwoValues.deps.json
+D:\QA\Methods\07. GreaterOfTwoValues\bin\Debug\net6.0\07. GreaterOfTwoValues.runtimeconfig.json
+D:\QA\Methods\07. GreaterOfTwoValues\bin\Debug\net6.0\07. GreaterOfTwoValues.dll
+D:\QA\Methods\07. GreaterOfTwoValues\bin\Debug\net6.0\07. GreaterOfTwoValues.pdb
+D:\QA\Methods\07. GreaterOfTwoValues\obj\Debug\net6.0\07. GreaterOfTwoValues.csproj.AssemblyReference.cache
+D:\QA\Methods\07. GreaterOfTwoValues\obj\Debug\net6.0\07. GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Methods\07. GreaterOfTwoValues\obj\Debug\net6.0\07. GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\QA\Methods\07. GreaterOfTwoValues\obj\Debug\net6.0\07. GreaterOfTwoValues.AssemblyInfo.cs
+D:\QA\Methods\07. GreaterOfTwoValues\obj\Debug\net6.0\07. GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\QA\Methods\07. GreaterOfTwoValues\obj\Debug\net6.0\07. GreaterOfTwoValues.dll
+D:\QA\Methods\07. GreaterOfTwoValues\obj\Debug\net6.0\refint\07. GreaterOfTwoValues.dll
+D:\QA\Methods\07. GreaterOfTwoValues\obj\Debug\net6.0\07. GreaterOfTwoValues.pdb
+D:\QA\Methods\07. GreaterOfTwoValues\obj\Debug\net6.0\07. GreaterOfTwoValues.genruntimeconfig.cache
+D:\QA\Methods\07. GreaterOfTwoValues\obj\Debug\net6.0\ref\07. GreaterOfTwoValues.dll

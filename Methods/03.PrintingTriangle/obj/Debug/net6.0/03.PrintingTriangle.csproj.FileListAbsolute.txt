@@ -1,0 +1,15 @@
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.exe
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.deps.json
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.runtimeconfig.json
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\bin\Debug\net6.0\03.PrintingTriangle.pdb
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.csproj.AssemblyReference.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.AssemblyInfoInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.AssemblyInfo.cs
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.csproj.CoreCompileInputs.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\obj\Debug\net6.0\refint\03.PrintingTriangle.dll
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.pdb
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\obj\Debug\net6.0\03.PrintingTriangle.genruntimeconfig.cache
+D:\QA\Simple and Complex Conditional Statements\Methods\03.PrintingTriangle\obj\Debug\net6.0\ref\03.PrintingTriangle.dll

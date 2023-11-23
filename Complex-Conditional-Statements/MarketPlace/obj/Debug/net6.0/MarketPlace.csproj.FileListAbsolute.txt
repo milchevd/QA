@@ -1,0 +1,15 @@
+D:\QA\Complex-Conditional-Statements\MarketPlace\bin\Debug\net6.0\MarketPlace.exe
+D:\QA\Complex-Conditional-Statements\MarketPlace\bin\Debug\net6.0\MarketPlace.deps.json
+D:\QA\Complex-Conditional-Statements\MarketPlace\bin\Debug\net6.0\MarketPlace.runtimeconfig.json
+D:\QA\Complex-Conditional-Statements\MarketPlace\bin\Debug\net6.0\MarketPlace.dll
+D:\QA\Complex-Conditional-Statements\MarketPlace\bin\Debug\net6.0\MarketPlace.pdb
+D:\QA\Complex-Conditional-Statements\MarketPlace\obj\Debug\net6.0\MarketPlace.csproj.AssemblyReference.cache
+D:\QA\Complex-Conditional-Statements\MarketPlace\obj\Debug\net6.0\MarketPlace.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Complex-Conditional-Statements\MarketPlace\obj\Debug\net6.0\MarketPlace.AssemblyInfoInputs.cache
+D:\QA\Complex-Conditional-Statements\MarketPlace\obj\Debug\net6.0\MarketPlace.AssemblyInfo.cs
+D:\QA\Complex-Conditional-Statements\MarketPlace\obj\Debug\net6.0\MarketPlace.csproj.CoreCompileInputs.cache
+D:\QA\Complex-Conditional-Statements\MarketPlace\obj\Debug\net6.0\MarketPlace.dll
+D:\QA\Complex-Conditional-Statements\MarketPlace\obj\Debug\net6.0\refint\MarketPlace.dll
+D:\QA\Complex-Conditional-Statements\MarketPlace\obj\Debug\net6.0\MarketPlace.pdb
+D:\QA\Complex-Conditional-Statements\MarketPlace\obj\Debug\net6.0\MarketPlace.genruntimeconfig.cache
+D:\QA\Complex-Conditional-Statements\MarketPlace\obj\Debug\net6.0\ref\MarketPlace.dll

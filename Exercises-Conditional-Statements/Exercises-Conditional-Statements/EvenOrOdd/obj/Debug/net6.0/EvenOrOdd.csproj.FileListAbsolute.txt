@@ -1,0 +1,15 @@
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.exe
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.deps.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.runtimeconfig.json
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.AssemblyReference.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfoInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfo.cs
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\obj\Debug\net6.0\refint\EvenOrOdd.dll
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.pdb
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.genruntimeconfig.cache
+D:\QA\Exercises-Conditional-Statements\Exercises-Conditional-Statements\EvenOrOdd\obj\Debug\net6.0\ref\EvenOrOdd.dll
